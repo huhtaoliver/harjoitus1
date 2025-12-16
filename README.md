@@ -1,2 +1,2 @@
 # harjoitus1
-Eka Github harj.
+Tämä on ensimmäinen harjoitus githubissa.
